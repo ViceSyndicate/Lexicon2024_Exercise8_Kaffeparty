@@ -1,13 +1,28 @@
+html{
+    background-color: #000000;
+}
+main{
+    background-color: #000000;
+}
+
+body{
+    
+}
+
+footer{
+    background-color: #4d2600;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
     gap: 10px;
-    background-color: #2196F3;
+    background-color: #1a1a1a;
     padding: 10px;
   }
   
   .grid-container > div {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: #595959;
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
@@ -44,7 +59,7 @@
     margin: 10px;
     border-radius: 5px;
     text-align: center;
-    background-color: #0d0d0d;
+    background-color: #4d2600;
     overflow: auto;
     white-space: nowrap;
   }
