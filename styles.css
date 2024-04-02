@@ -13,6 +13,8 @@ footer{
     background-color: #4d2600;
 }
 
+.products {}
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
@@ -75,4 +77,11 @@ footer{
   div.menu a:hover {
     background-color: #1a1a1a;
     border-radius: 5px;
+  }
+
+
+  .card{
+    width: 300px;
+    text-align: center;
+    margin: auto;
   }
